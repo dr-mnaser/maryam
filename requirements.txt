@@ -1,0 +1,4 @@
+psutil==6.1.0
+streamlit==1.39.0
+
+
